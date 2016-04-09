@@ -8,7 +8,7 @@ xcode 工具集合.
 
 使用方法（在终端输入如下命令）:
 
-	1. check out 本项目: git clone https://github.com/tangqiaoboy/xcode_tool
+	1. check out 本项目: git clone https://github.com/hansoncoder/xcode_tool
 	2. 进入到xcode_tool目录: cd xcode_tool
 	3. 执行批处理文件: ./setup_snippets.sh
 
